@@ -22,3 +22,10 @@ article {
     width: 450px;
 }
 /* creazione bordi */
+
+
+article h1 {
+    margin-top: 0;
+    font-size: 25px;
+}
+/* Modifica del contenuto*/
