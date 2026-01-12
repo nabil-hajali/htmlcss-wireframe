@@ -16,11 +16,12 @@ main {
 
 
 article {
+    width: 400px;
+    height: 150px;
     border: 2px solid black;
     padding: 15px;
     margin-bottom: 20px;
-    width: 450px;
-}
+
 /* creazione bordi */
 
 
@@ -29,6 +30,8 @@ article h1 {
     font-size: 25px;
 }
 /* Modifica del contenuto*/
+
+}
 
 footer {
     border-top: 2px solid black;
