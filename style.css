@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 /* reset pagina*/
+body {
+    width: 512px;
+}
 
 #site_header {
     border-bottom: 2px solid black;
